@@ -1,7 +1,12 @@
 my name is Upendra Reddy.
 <<<<<<< HEAD
+<<<<<<< HEAD
 my age is 26.
 my package is 6lpa
 =======
 my age is 26.
 >>>>>>> 119cc0cd79337b387732d786ab9342f25b4783ee
+=======
+my age is 26.
+my package = 6lpa
+>>>>>>> my-branch
